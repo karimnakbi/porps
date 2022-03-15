@@ -15,7 +15,7 @@ function App() {
       <Props_File fullName={fullName} bio={bio} profession={profession} getName={getName}/> 
     
     
-      <Image> <img className='developer' src='./imaage.webp' alt='kkk'/></Image>
+      <Image><img className='developer' src='./imaage.webp' alt='kkk'/></Image>
     </div>
   );
 }
